@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-     <h1>hi</h1>
+      <h1 className="text-4xl font-bold font-signature">F M T</h1>
     </div>
   );
 }
