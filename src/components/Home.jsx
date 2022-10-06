@@ -16,7 +16,7 @@ const Home = () => {
                         </button>
                     </div>
                 </div>
-                <img src={HeroImage} alt="Fatih Mehmet Tüncer" className="rounded-xl mx-auto w-2/3 md:w-full" />
+                <img src={HeroImage} alt="Fatih Mehmet Tüncer" className="rounded-xl mx-auto h-2/5 w-1/10 " />
             </div>
         </div>
     )
